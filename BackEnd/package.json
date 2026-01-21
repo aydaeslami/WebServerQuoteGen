@@ -1,0 +1,12 @@
+{
+   "type": "module",
+     "name": "WebServerQuoteGen",
+  "version": "1.0.0",
+  "description": "A web server that generates random quotes.",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.2.1"
+   
+
+  }
+}
